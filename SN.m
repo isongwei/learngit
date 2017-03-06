@@ -12,3 +12,4 @@ float height ;
 //你需要的区域起点,宽,高;
 
 CGRect rect1 = CGRectMake(originX , originY , width , height); UIImage * imgeee = [UIImage imageWithCGImage:CGImageCreateWithImageInRect([img CGImage], rect1)];
+SONGWEI
